@@ -1,7 +1,7 @@
 
 <h1>Hi There, I am <a  href="https://iamayala.github.io/">Serge Mayala</a> </h1>
 
-I'm a *Software Engineer* based in Kigali, Rwanda :man_technologist:. My day to day work revolves around designing and building mobile and web platforms for various interseting problems and deploying them to production, at scale. In my free time I watch movies, read blogs and participate in online contests. I am open to collaborate on interesting projects.
+I am a software engineer. I currently live in Kigali, Rwanda and work for a cool company that builds softwares.
 
 
 ## Let's Connect :handshake:
