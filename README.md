@@ -1,7 +1,7 @@
 
 <h1>Hi There, I am <a  href="https://iamayala.github.io/">Serge Mayala</a> </h1>
 
-I am a software engineer. I currently live in Kigali, Rwanda and work for a cool company that builds softwares.
+I am a software engineer based in Kigali, Rwanda and I currently working for a cool company that builds software.
 
 
 ## Let's Connect :handshake:
