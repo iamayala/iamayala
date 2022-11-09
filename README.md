@@ -3,6 +3,8 @@
 
 I am a software engineer based in Kigali, Rwanda and I currently working for a cool company that builds software.
 
+I am passionate about developing highly scalable, resilient applications. I love everything from the database, to microservices, to the frontend. I find amazing to think about how all pieces work together to provide a fast and pleasurable experience to end users, mainly because they have no clue how complex that "simple" app is.
+
 
 ## Let's Connect :handshake:
 
